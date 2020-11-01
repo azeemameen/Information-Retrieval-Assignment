@@ -10,3 +10,9 @@ Below Libraries/modules are required as prerequisites
 
 3- download wordnet lemmarizer >>import nltk >>nltk.download('wordnet')
 
+Download the input file and big.txt and python code to a folder and create new folder called Output in the same folder
+
+Install the packages above and then run the code
+
+You will get the result files in the Output folder you created
+
