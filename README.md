@@ -8,9 +8,7 @@ Below Libraries/modules are required as prerequisites and required to be install
 
 2- Installing the symspellpy module:  pip install -U symspellpy
 
-3- Download wordnet lemmarizer : import nltk 
-
-                                 nltk.download('wordnet')
+3- Download wordnet lemmarizer : >> import nltk >> nltk.download('wordnet')
 
 
 Install the packages above and then run the code, You will get the result files in the Output folder you created
